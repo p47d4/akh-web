@@ -1,4 +1,4 @@
-# Wallet Free Bootstrap Finance Template
+# Akh Free Bootstrap Finance Template
 
 ![wallet](https://demo.themefisher.com/thumbnails/wallet.png)
 
