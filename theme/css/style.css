@@ -9345,7 +9345,7 @@ blockquote::before {
 }
 
 .banner {
-  padding: 90px 0;
+  padding: 30px 0;
   z-index: 5;
 }
 .banner .block h1, .banner .block .h1 {

@@ -1,8 +1,8 @@
 {
-  "name": "wallet",
+  "name": "akhcapital",
   "version": "1.0.0",
-  "description": "wallet free bootstrap finance template",
-  "author": "Themefisher",
+  "description": "akh capital home",
+  "author": "Adnan Baba-Ahmed",
   "license": "MIT",
   "scripts": {
     "dev": "gulp",
