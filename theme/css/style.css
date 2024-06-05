@@ -8612,7 +8612,7 @@ p, .paragraph {
 
 h1,
 .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
-  color: #040404;
+  color: #f6b533;
   font-family: "Rubik", sans-serif;
   font-weight: 700;
 }
@@ -8698,12 +8698,12 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #040404;
+  background: #f6b533;
   color: #fff;
-  border-color: #040404;
+  border-color: #f6b533;
 }
 .btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary:focus, .btn-primary.focus {
-  background: #040404 !important;
+  background: #f6b533 !important;
   color: #fff;
 }
 .btn-primary.w-100:hover, .btn-primary.d-block:hover, .btn-primary.d-flex:hover, .btn-primary.effect-none:hover {
@@ -8715,7 +8715,7 @@ h6, .h6 {
   color: black;
 }
 .btn-outline-primary::after {
-  background-color: #040404;
+  background-color: #f6b533;
 }
 .btn-outline-primary:hover, .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary:focus, .btn-outline-primary.focus {
   background: #6a6a6a;
@@ -8730,7 +8730,7 @@ h6, .h6 {
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-  background-color: #040404;
+  background-color: #f6b533;
 }
 
 body {
@@ -8739,12 +8739,12 @@ body {
 }
 
 ::-moz-selection {
-  background: #040404;
+  background: #f6b533;
   color: #fff;
 }
 
 ::selection {
-  background: #040404;
+  background: #f6b533;
   color: #fff;
 }
 
@@ -8788,10 +8788,10 @@ select:focus {
 }
 
 a {
-  color: #040404;
+  color: #f6b533;
 }
 a:hover {
-  color: #040404;
+  color: #f6b533;
   text-decoration: underline;
 }
 
@@ -8822,7 +8822,7 @@ a:hover {
 }
 
 .bg-primary {
-  background: #040404 !important;
+  background: #f6b533 !important;
 }
 
 .bg-primary-light {
@@ -8846,16 +8846,16 @@ a:hover {
 }
 
 .text-primary {
-  color: #040404 !important;
+  color: #f6b533 !important;
 }
 
 .text-black {
-  color: #040404 !important;
+  color: #f6b533 !important;
 }
 
 .text-black a:hover,
 a.text-black:hover {
-  color: #040404 !important;
+  color: #f6b533 !important;
 }
 
 .text-default {
@@ -8909,11 +8909,11 @@ a.text-black:hover {
   font-weight: 800;
 }
 .content a {
-  border-bottom: 1px dotted #040404;
+  border-bottom: 1px dotted #f6b533;
 }
 .content a:hover {
-  color: #040404;
-  border-bottom: 1px solid #040404;
+  color: #f6b533;
+  border-bottom: 1px solid #f6b533;
 }
 .content ol,
 .content ul {
@@ -9077,7 +9077,7 @@ a.text-black:hover {
   background-color: transparent;
   height: unset;
   width: unset;
-  color: #040404;
+  color: #f6b533;
   top: 0;
   left: 0;
 }
@@ -9105,7 +9105,7 @@ a.text-black:hover {
   color: #fff;
 }
 .code-tabs .nav-item.active .nav-link {
-  background: #040404;
+  background: #f6b533;
 }
 .code-tabs .nav-item .nav-link {
   text-decoration: none;
@@ -9113,7 +9113,7 @@ a.text-black:hover {
   border: 0;
   border-radius: 8px;
   text-transform: capitalize;
-  color: #040404;
+  color: #f6b533;
 }
 .code-tabs .tab-content {
   padding: 20px 15px;
@@ -9152,7 +9152,7 @@ a.text-black:hover {
   font-size: 15px;
 }
 .card-social a:hover {
-  color: #040404;
+  color: #f6b533;
 }
 
 .card:hover .card-social {
@@ -9188,7 +9188,7 @@ blockquote::before,
   position: absolute;
   left: 0;
   top: 2px;
-  color: #040404;
+  color: #f6b533;
 }
 
 blockquote::before {
@@ -9252,12 +9252,12 @@ blockquote::before {
 }
 .navigation .dropdown-item.active,
 .navigation .dropdown-item:active {
-  color: #040404;
+  color: #f6b533;
   background-color: transparent;
 }
 .navigation .dropdown-item:focus,
 .navigation .dropdown-item:hover {
-  color: #040404;
+  color: #f6b533;
   background-color: transparent;
 }
 .navigation .nav-item {
@@ -9312,7 +9312,7 @@ blockquote::before {
   width: calc(100% - 30px);
   height: 2px;
   z-index: -1;
-  background-color: #040404;
+  background-color: #f6b533;
   transform: scaleX(0);
   transition: 0.25s;
 }
@@ -9323,19 +9323,19 @@ blockquote::before {
 }
 .navigation .nav-item:hover .nav-link {
   text-decoration: none;
-  color: #040404 !important;
+  color: #f6b533 !important;
 }
 .navigation .nav-item:hover .nav-link::before {
   transform: scaleX(1);
 }
 .navigation .navbar-light .navbar-nav .nav-link {
-  color: #040404;
+  color: #f6b533;
 }
 .navigation .navbar-light .navbar-nav .nav-link:hover {
-  color: #040404;
+  color: #f6b533;
 }
 .navigation .navbar-light .navbar-nav .active .nav-link {
-  color: #040404;
+  color: #f6b533;
 }
 .navigation .navbar-light .navbar-nav .active .nav-link::before {
   transform: scaleX(1);
@@ -9390,7 +9390,7 @@ blockquote::before {
   width: 70px;
   line-height: 70px;
   border-radius: 8px;
-  color: #040404;
+  color: #f6b533;
   background-color: rgba(4, 4, 4, 0.2);
 }
 .service-item .service-title {
@@ -9400,7 +9400,7 @@ blockquote::before {
   color: #888888;
 }
 .service-item a:hover .service-title {
-  color: #040404;
+  color: #f6b533;
 }
 .service-item a:hover .service-description {
   color: #888888;
@@ -9471,7 +9471,7 @@ blockquote::before {
   background-color: rgba(37, 30, 64, 0.1);
 }
 .difference-of-us-item:nth-child(even) .icon {
-  color: #040404;
+  color: #f6b533;
   background-color: rgba(4, 4, 4, 0.1);
 }
 
@@ -9574,7 +9574,7 @@ blockquote::before {
   color: #111;
 }
 .page-header .breadcrumbs a:hover {
-  color: #040404;
+  color: #f6b533;
 }
 .page-header .breadcrumbs li:last-child a {
   pointer-events: none;
@@ -9608,7 +9608,7 @@ blockquote::before {
   margin-bottom: 0 !important;
 }
 .accordion-item .accordion-button:not(.collapsed) {
-  color: #040404;
+  color: #f6b533;
   background-color: transparent;
   box-shadow: none;
 }
@@ -9698,7 +9698,7 @@ blockquote::before {
   content: "";
   height: 1px;
   width: 100%;
-  border: 1px dashed #040404;
+  border: 1px dashed #f6b533;
   top: 50px;
   left: 50%;
   z-index: -1;
@@ -9707,7 +9707,7 @@ blockquote::before {
   display: none;
 }
 .loan-steps .step-item .count {
-  background-color: #040404;
+  background-color: #f6b533;
 }
 @media (max-width: 991px) {
   .loan-steps .step-item:nth-child(2)::before, .loan-steps .step-item:nth-child(3)::before, .loan-steps .step-item:nth-child(6)::before {
@@ -9741,7 +9741,7 @@ blockquote::before {
   margin-bottom: 20px;
   text-align: center;
   color: #fff;
-  background-color: #040404;
+  background-color: #f6b533;
 }
 
 .icon-lg {
@@ -9788,7 +9788,7 @@ textarea.form-control {
 }
 
 .form-control:focus {
-  border-color: #040404;
+  border-color: #f6b533;
 }
 
 .form-group {
@@ -9855,7 +9855,7 @@ textarea.form-control {
   color: #000;
 }
 .footer-widget ul li a:hover {
-  color: #040404;
+  color: #f6b533;
   text-decoration: underline !important;
 }
 
@@ -9880,12 +9880,12 @@ textarea.form-control {
 #TableOfContents a {
   display: block;
   padding: 8px 0;
-  color: #040404;
+  color: #f6b533;
   font-weight: 400;
   transition: 0.2s ease;
 }
 #TableOfContents a.active {
-  color: #040404;
+  color: #f6b533;
 }
 #TableOfContents ul {
   padding-left: 0;
@@ -9894,7 +9894,7 @@ textarea.form-control {
   list-style-type: none;
   padding-left: 20px;
   position: relative;
-  color: #040404;
+  color: #f6b533;
 }
 #TableOfContents ul li::before {
   position: absolute;
@@ -9902,7 +9902,7 @@ textarea.form-control {
   height: 8px;
   width: 8px;
   border-radius: 50%;
-  background: #040404;
+  background: #f6b533;
   left: 3px;
   top: 15px;
 }
@@ -9979,7 +9979,7 @@ textarea.form-control {
   outline: 0;
 }
 .slick-arrow:hover {
-  background: #040404;
+  background: #f6b533;
 }
 
 .prevArrow {
@@ -10000,13 +10000,13 @@ textarea.form-control {
   text-align: center;
   padding: 0;
   margin-right: 10px;
-  border: 1px solid #040404;
-  color: #040404;
+  border: 1px solid #f6b533;
+  color: #f6b533;
 }
 .pagination .page-item .page-link:hover {
-  background: #040404;
+  background: #f6b533;
   color: #fff;
-  border-color: #040404;
+  border-color: #f6b533;
   text-decoration: none;
 }
 .pagination .page-item .page-link:focus {
@@ -10016,9 +10016,9 @@ textarea.form-control {
   border-radius: 8px;
 }
 .pagination .page-item.active .page-link {
-  background: #040404;
+  background: #f6b533;
   color: #fff;
-  border-color: #040404;
+  border-color: #f6b533;
 }
 
 .widget {
@@ -10037,7 +10037,7 @@ textarea.form-control {
   text-decoration: none;
 }
 .widget.widget-categories li a:hover, .widget.widget-tags li a:hover {
-  background-color: #040404;
+  background-color: #f6b533;
   color: #fff;
 }
 .widget.widget-tags li a {
